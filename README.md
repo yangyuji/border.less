@@ -4,7 +4,7 @@
 # 使用方法
 ```javascript
 <style lang="less" scoped>
-@import "../../../css/common/border.less";
+@import "./border.less";
 ...
 .example {
     position: relative; //important
